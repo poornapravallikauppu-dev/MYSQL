@@ -1,8 +1,6 @@
 Zepto Data Analysis Project
 This repository contains a structured dataset and SQL-based analysis focused on Zepto product and sales data. The project demonstrates data cleaning, exploration, and business insights generation using SQL.
 Repository Structure
-Copy code
-
 ├── zepto_csv file                    # Raw dataset
 ├── Zepto_SQL queries.sql      # SQL queries for analysis
 └── README.md                        # Project documentation
