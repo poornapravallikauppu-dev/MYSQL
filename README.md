@@ -12,31 +12,50 @@ Repository Structure
  Dataset Overview
  
 File: zepto_csv
-The dataset contains product-level information including pricing, discounts, ratings, and availability. 
+
+The dataset contains product-level information including pricing, discounts, ratings, and availability.
+
 It can be used for:
+
 Exploratory Data Analysis (EDA)
+
 Pricing strategy evaluation
+
 Discount pattern analysis
+
 Rating distribution insights
+
 Revenue estimation
 
 SQL practice and portfolio projects
 
 Sample Columns (Typical Structure)
+
 Depending on the dataset version, columns may include:
+
 product_name – Name of the product
+
 category – Product category
+
 mrp – Maximum Retail Price
+
 discounted_price – Selling price after discount
+
 discount_percentage – Discount applied
+
 rating – Customer rating
+
 rating_count – Number of ratings
+
 availability – Stock availability
 
 Technologies Used
 
 SQL (MySQL / PostgreSQL compatible)
+
+
 CSV dataset
+
 Any SQL client (MySQL Workbench, pgAdmin, DBeaver, etc.)
 
 
@@ -62,13 +81,22 @@ Use the Import Wizard in your SQL tool.
 2️⃣ Run SQL Analysis
 Open:
 Zepto_SQL_data_analysis.sql
+
 Execute queries to generate insights such as:
+
 Top discounted products
+
 Highest rated products
+
 Category-wise average pricing
+
 Revenue estimation
+
+
 Products with maximum rating counts
+
 Discount impact analysis
+
 
 
  Example Business Questions Answered
