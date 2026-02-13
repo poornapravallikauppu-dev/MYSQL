@@ -49,7 +49,7 @@ rating_count – Number of ratings
 
 availability – Stock availability
 
-Technologies Used
+**Technologies Used**
 
 SQL (MySQL / PostgreSQL compatible)
 
