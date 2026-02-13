@@ -4,7 +4,9 @@ This repository contains a structured dataset and SQL-based analysis focused on 
 Repository Structure
 
 ├── zepto_csv file                    # Raw dataset
+
 ├── Zepto_SQL queries.sql      # SQL queries for analysis
+
 └── README.md                        # Project documentation
 
  Dataset Overview
@@ -70,29 +72,49 @@ Discount impact analysis
 
 
  Example Business Questions Answered
+ 
 Which category offers the highest average discount?
+
 What are the top-rated products?
+
 Is there a correlation between discount and rating?
+
 Which products generate the highest potential revenue?
+
 What is the price distribution across categories?
 
  Project Objectives
+ 
 Practice SQL querying techniques
+
 Perform real-world retail data analysis
+
 Generate business insights from e-commerce data
+
 Build a portfolio-ready data analytics project
 
  Skills Demonstrated
+ 
 Data Cleaning
+
 Aggregations (SUM, AVG, COUNT)
+
 GROUP BY & ORDER BY
+
 Subqueries
+
 Filtering & Conditional Logic
+
 Business Insight Generation
 
  Possible Extensions
+ 
 Create dashboards using Power BI / Tableau
+
 Perform Python-based EDA (Pandas, Matplotlib, Seaborn)
+
 Build price prediction models
+
 Create category-wise profitability analysis
+
 Deploy insights in a web dashboard
